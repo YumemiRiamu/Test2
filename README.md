@@ -3,7 +3,6 @@
 ## 코드
 
 ```
-# installing required libraries
 
 import os
 import cv2
@@ -70,5 +69,6 @@ print(classify_face("test/test_ys.jpg"))
 ```
 
 ### 실행 결과
-
+<img src="/out1.png">
+<img src="/out2.png">
 
