@@ -69,6 +69,8 @@ print(classify_face("test/test_ys.jpg"))
 ```
 
 ### 실행 결과
+print(classify_face("test/test_ys.jpg")) 입력 시
 <img src="/out1.png">
+print(classify_face("test/test.jpg")) 입력 시
 <img src="/out2.png">
 
